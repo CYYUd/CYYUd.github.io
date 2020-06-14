@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mood on Dylan&#39;s Blog</title>
+    <link>https://CYYUd.github.io/tags/mood/</link>
+    <description>Recent content in Mood on Dylan&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Tue, 09 Jun 2020 22:30:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://CYYUd.github.io/tags/mood/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My diary 0609</title>
+      <link>https://CYYUd.github.io/blog/diary-one/</link>
+      <pubDate>Tue, 09 Jun 2020 22:30:00 +0800</pubDate>
+      
+      <guid>https://CYYUd.github.io/blog/diary-one/</guid>
+      <description>It&amp;rsquo;s a blue Monday again, the another horrible begining of working loop.</description>
+    </item>
+    
+  </channel>
+</rss>
