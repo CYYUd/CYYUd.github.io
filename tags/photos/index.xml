@@ -6,36 +6,36 @@
     <description>Recent content in Photos on Dylan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 14 Jun 2020 22:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2020 22:20:00 +0800</lastBuildDate>
     
 	<atom:link href="https://CYYUd.github.io/tags/photos/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>My diary 0614</title>
-      <link>https://CYYUd.github.io/blog/diary0614-mood/</link>
+      <title>0628 My Diary</title>
+      <link>https://CYYUd.github.io/blog/0628diary/</link>
+      <pubDate>Sun, 28 Jun 2020 22:20:00 +0800</pubDate>
+      
+      <guid>https://CYYUd.github.io/blog/0628diary/</guid>
+      <description>It the end of the long holiday. I&amp;rsquo;ve travel to Yilan at 6/26 to 6/27 with my family.</description>
+    </item>
+    
+    <item>
+      <title>0614 My Diary</title>
+      <link>https://CYYUd.github.io/blog/0614diary-mood/</link>
       <pubDate>Sun, 14 Jun 2020 22:00:00 +0800</pubDate>
       
-      <guid>https://CYYUd.github.io/blog/diary0614-mood/</guid>
+      <guid>https://CYYUd.github.io/blog/0614diary-mood/</guid>
       <description>It&amp;rsquo;s a Sunday night again, means i have to go to work tomorrow.</description>
     </item>
     
     <item>
-      <title>Journey in Europe - Königssee </title>
-      <link>https://CYYUd.github.io/blog/journey0617/</link>
+      <title>0617 Journey in Europe - Königssee </title>
+      <link>https://CYYUd.github.io/blog/0617journey/</link>
       <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
       
-      <guid>https://CYYUd.github.io/blog/journey0617/</guid>
+      <guid>https://CYYUd.github.io/blog/0617journey/</guid>
       <description>Königssee The beautiful picture of lake remind me that there was a good old day i&amp;rsquo;ve enjoyed.</description>
-    </item>
-    
-    <item>
-      <title>Title TBD</title>
-      <link>https://CYYUd.github.io/blog/post-1-copy/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://CYYUd.github.io/blog/post-1-copy/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
   </channel>

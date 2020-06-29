@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mood on Dylan&#39;s Blog</title>
+    <link>https://CYYUd.github.io/categories/mood/</link>
+    <description>Recent content in Mood on Dylan&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 28 Jun 2020 22:20:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://CYYUd.github.io/categories/mood/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>0628 My Diary</title>
+      <link>https://CYYUd.github.io/blog/0628diary/</link>
+      <pubDate>Sun, 28 Jun 2020 22:20:00 +0800</pubDate>
+      
+      <guid>https://CYYUd.github.io/blog/0628diary/</guid>
+      <description>It the end of the long holiday. I&amp;rsquo;ve travel to Yilan at 6/26 to 6/27 with my family.</description>
+    </item>
+    
+    <item>
+      <title>0614 My Diary</title>
+      <link>https://CYYUd.github.io/blog/0614diary-mood/</link>
+      <pubDate>Sun, 14 Jun 2020 22:00:00 +0800</pubDate>
+      
+      <guid>https://CYYUd.github.io/blog/0614diary-mood/</guid>
+      <description>It&amp;rsquo;s a Sunday night again, means i have to go to work tomorrow.</description>
+    </item>
+    
+  </channel>
+</rss>
