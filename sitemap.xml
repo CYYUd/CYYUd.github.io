@@ -3,37 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://CYYUd.github.io/blog/0710journy/</loc>
+    <lastmod>2020-07-10T23:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CYYUd.github.io/categories/</loc>
+    <lastmod>2020-07-10T23:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CYYUd.github.io/</loc>
+    <lastmod>2020-07-10T23:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CYYUd.github.io/tags/photos/</loc>
+    <lastmod>2020-07-10T23:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CYYUd.github.io/tags/react/</loc>
+    <lastmod>2020-07-10T23:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CYYUd.github.io/tags/</loc>
+    <lastmod>2020-07-10T23:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CYYUd.github.io/categories/travel/</loc>
+    <lastmod>2020-07-10T23:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://CYYUd.github.io/blog/0701journy/</loc>
+    <lastmod>2020-07-01T22:30:00+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://CYYUd.github.io/blog/0628diary/</loc>
     <lastmod>2020-06-28T22:20:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://CYYUd.github.io/categories/</loc>
-    <lastmod>2020-06-28T22:20:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://CYYUd.github.io/</loc>
-    <lastmod>2020-06-28T22:20:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://CYYUd.github.io/categories/mood/</loc>
-    <lastmod>2020-06-28T22:20:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://CYYUd.github.io/tags/photos/</loc>
-    <lastmod>2020-06-28T22:20:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://CYYUd.github.io/tags/react/</loc>
-    <lastmod>2020-06-28T22:20:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://CYYUd.github.io/tags/</loc>
     <lastmod>2020-06-28T22:20:00+08:00</lastmod>
   </url>
   
@@ -74,11 +89,6 @@
   
   <url>
     <loc>https://CYYUd.github.io/blog/0617journey/</loc>
-    <lastmod>2019-10-29T10:07:47+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://CYYUd.github.io/categories/travel/</loc>
     <lastmod>2019-10-29T10:07:47+06:00</lastmod>
   </url>
   
